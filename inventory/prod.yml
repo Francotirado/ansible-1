@@ -1,0 +1,9 @@
+---
+prod:
+  hosts:
+    clickhouse:
+      ansible_host: 130.193.42.97
+    vector:
+      ansible_host: 158.160.25.229
+    lighthouse:
+      ansible_host: 89.169.173.197
